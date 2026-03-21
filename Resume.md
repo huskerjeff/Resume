@@ -17,7 +17,7 @@ Senior Converged Engineer with 10+ years of progressive experience in AI-driven 
 - AWS Certified Solutions Architect — Associate
 - AWS Certified SysOps Administrator — Associate
 - VMware Certified Advanced Professional 6.5 (VCAP-DCV)
-- Nutanix Certified Professional (NCP) 5.10
+- Nutanix Certified Professional (NCP) 7.1
 - CompTIA Linux+ / LPIC-1
 
 ---

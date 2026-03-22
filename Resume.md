@@ -22,6 +22,20 @@ Senior Converged Engineer with 10+ years of progressive experience in AI-driven 
 
 ---
 
+## Skills
+
+**Cloud & Virtualization:** Azure (AZ-104), AWS (EC2, IAM, CloudWatch), VMware (vSphere, vRealize Operations, SRM), Nutanix, Hyper-V
+
+**Automation & Scripting:** PowerShell, PowerCLI, Python, Bash, SQL, Perl
+
+**AI Tools & Workflows:** Claude Code, Claude Agent SDK (subagent orchestration), Gemini CLI, GitHub Copilot
+
+**Platforms & Systems:** Windows Server, Red Hat Linux, Ubuntu, Cisco UCS, Citrix XenApp
+
+**ITSM & Compliance:** ServiceNow, HIPAA, PCI, CommVault, Veeam
+
+---
+
 ## Professional Experience
 
 ### Azure Cloud and Senior Converged Engineer — Tier III
@@ -33,6 +47,7 @@ Senior Converged Engineer with 10+ years of progressive experience in AI-driven 
 - Leverage AI tools (Claude, GitHub Copilot, Gemini) for accelerated scripting, root cause analysis, and incident resolution.
 - Designed and implemented AI-assisted workflows using Claude, GitHub Copilot, and Gemini to automate repetitive processes, reduce manual effort, and accelerate delivery across infrastructure and support operations.
 - Utilized Claude Code and Gemini CLI to streamline day-to-day engineering tasks, including script generation, documentation, and solution design, significantly reducing time-to-resolution on complex issues.
+- Orchestrated multi-step engineering workflows using Claude Code subagents and the Claude Agent SDK, enabling parallel task execution, automated research pipelines, and hands-free resolution of complex infrastructure problems.
 - Spearheaded AI adoption initiatives by educating and mentoring team members on integrating Claude, Copilot, and Gemini into their workflows, resulting in improved ticket resolution efficiency and more consistent problem-solving approaches.
 - Manage ServiceNow for incident tracking and proactive issue management across enterprise customer environments.
 - Support AWS environments including IAM, EC2, and CloudWatch; apply cost and performance analysis to optimize customer workloads.
